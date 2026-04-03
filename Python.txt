@@ -1,0 +1,72 @@
+Lecture 1: Python Introduction – Notes
+
+🔹 1. What is Python?
+Python is a high-level programming language
+It is easy to read and write (syntax like English)
+Created by Guido van Rossum (1991)
+
+🔹 2. Why Python is Popular?
+Simple and beginner-friendly
+Less code compared to C, C++, Java
+Huge community support
+Works in many fields:
+Web development
+AI / Machine Learning
+Automation
+Data Science
+
+🔹 3. Evolution of Programming Languages
+Machine Language (0s and 1s ❌ hard)
+Assembly Language (slightly easier)
+High-Level Languages (C, C++, Java)
+Python → simpler + powerful 🚀
+
+🔹 4. Features of Python
+✔ Simple syntax
+✔ Interpreted language (no compilation needed)
+✔ Platform independent
+✔ Open-source
+✔ Large libraries (NumPy, Pandas, etc.)
+
+🔹 5. Python is Multi-Paradigm
+
+Supports:
+
+Procedural programming
+Object-Oriented Programming (OOP)
+Functional programming
+
+🔹 6. General Purpose Language
+
+Python can be used for:
+
+Small programs (calculator)
+Web apps
+AI projects
+Automation scripts
+
+🔹 7. First Python Program
+print("Hello World")
+
+👉 Only 1 line needed (unlike Java/C++)
+
+
+🔹 8. Why Learn Python (Important for You 🚀)
+
+Since you are into:
+
+AI projects
+Hackathons
+Web + startup ideas
+
+👉 Python is must-learn because:
+
+AI/ML = Python dominant
+Fast prototyping
+
+
+Lecture 2 : First Code in python
+
+print("Hello World")
+
+print()- It is used to print something in python
