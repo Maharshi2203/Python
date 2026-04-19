@@ -41,3 +41,31 @@ else:
 # <	        smaller
 # >=	    greater equal
 # <=	    smaller equal
+
+#Logical Operators
+#1. And
+age = 20
+is_id_verified = True
+
+if age >= 18 and is_id_verified:
+    print("Allowed")
+#2. Or
+if age >= 18 or is_id_verified:
+    print("Allowed")
+#3. Not
+is_logged_in = False
+
+if not is_logged_in:
+    print("Please login")
+
+# 🧠 Industry Thinking
+
+# Always think:
+
+# 👉 “What conditions control this system?”
+
+# Example:
+
+# Login → username + password
+# Payment → balance + limits
+# App → user role (admin/user)
