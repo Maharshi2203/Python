@@ -1,0 +1,1 @@
+Hello my name is Maharshi MehtaThe primary reason we use f-strings (formatted string literals) in Python is that they offer a more concise, readable, and efficient way to embed expressions and variables directly into strings.Introduced in Python 3.6 via PEP 498, they have largely replaced older methods like formatting and the .format() method as the industry standard.
