@@ -55,3 +55,41 @@ print(text.replace("World","Maharshi")) #Hello Maharshi
 #5.Find
 text = "Hello"
 print(text.find("e")) #1
+
+#String Slicing
+name = "Maharshi"
+print(name[0:4]) #Maha
+print(name[:4])  # Maha
+print(name[4:])  # rshi
+
+#   6. String + Conditions + Loops
+text = "maharshi"
+
+count = 0
+
+for ch in text:
+    if ch in "aeiou":
+        count += 1
+
+print("Vowels:", count)
+
+#f-Strings (Industry Standard)
+name = "Maharshi"
+age = 20
+
+print(f"My name is {name} and I am {age}")
+
+# 👉 Used in:
+
+# logging
+# APIs
+# backend
+
+# ⚠️ Common Mistakes
+
+# ❌ Forgetting string is immutable
+
+# name[0] = "X"   # ERROR
+
+# ❌ Not cleaning input
+# 👉 leads to bugs in real apps
