@@ -58,3 +58,31 @@ with open("data.txt","r") as file:
 # logs
 # CSV files
 # reports
+
+#Append Data
+with open("data.txt","a") as file:
+    file.write("\n New Trasaction")
+
+# 🧠 Why .strip()?
+# Removes extra newline/spaces.
+
+with open("transactions.txt", "r") as file:
+    for line in file:
+        print(line.strip())
+
+
+# Common Mistakes
+# Opening non-existing file in "r" mode
+# open("abc.txt", "r")
+# ERROR if file doesn’t exist.
+
+#Safe Approach
+# try:
+#     with open("abc.txt", "r") as file:
+#         print(file.read())
+# except FileNotFoundError:
+#     print("File not found")
+
+
+
+

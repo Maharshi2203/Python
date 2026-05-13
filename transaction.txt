@@ -1,0 +1,14 @@
+expense: 5000
+income: 20000
+expense: 5000
+income: 20000
+expense: 5000
+expense: 3000
+income: 20000
+expense: 5000
+income: 20000
+expense: 5000
+expense: 3000
+income: 20000
+expense: 5000
+r: 3000
